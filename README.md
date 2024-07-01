@@ -28,3 +28,6 @@ Data Transformation: The extracted data was cleaned, transformed, and enriched u
 Data Modeling: The transformed data was loaded into a Power BI data model, and further processing mapping for job categories.<br>
 Dashboard: Using DAX to generate new measures for data visualization. Job Trend Analysis and Job Category breakdown was demonstrated. 
 
+## Download the Power BI File
+Download BI File: https://drive.google.com/file/d/1birDCKhz-s9y2_QpQGJOgkKq9nKIMgkm/view?usp=drive_link
+
